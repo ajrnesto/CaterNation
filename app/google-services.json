@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483505921866",
+    "firebase_url": "https://caternation-27bf1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "caternation-27bf1",
+    "storage_bucket": "caternation-27bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483505921866:android:404b3afffde56b7a422bb3",
+        "android_client_info": {
+          "package_name": "com.caternation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483505921866-fravu3d1gqfh9ivjkamrlr6fm6metb51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_uLEfepuw7FlSI9oho6baIBTVG2KIa4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483505921866-fravu3d1gqfh9ivjkamrlr6fm6metb51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

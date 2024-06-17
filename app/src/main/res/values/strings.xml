@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CaterNation</string>
+    <string name="food_delivery">Food Delivery</string>
+    <string name="get_food_delivered_at_your_doorstep">Get food delivered\nat your doorstep!</string>
+    <string name="catering">Catering</string>
+    <string name="sign_in">Sign in</string>
+</resources>
