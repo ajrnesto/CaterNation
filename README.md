@@ -32,10 +32,16 @@ CaterNation is an Android application that allows users from Sindangan and Liloy
 - **Bookings History:** Users can track all bookings they have made.
   <br>
   <img src="/assets/catering-bookings.png" width="40%">
-  <img src="/assets/catering-view-booikings.png" width="40%">
+  <img src="/assets/catering-view-bookings.png" width="40%">
 - **Profile Page:** Users can view and update their personal information.
   <br>
   <img src="/assets/profile.png" width="40%">
-  <img src="/assets/proile-edit.png" width="40%">
+  <img src="/assets/profile-edit.png" width="40%">
 - **Admin Orders Management:** Admins can see and manage the list of orders.
+  <br>
+  <img src="/assets/admin-orders.png" width="40%">
+  <img src="/assets/admin-view-order.png" width="40%">
 - **Admin Bookings Management:** Admins can see and manage the list of catering bookings.Admin Bookings Management: Admins can see and manage the list of catering bookings.
+  <br>
+  <img src="/assets/admin-bookings.png" width="40%">
+  <img src="/assets/admin-view-bookings.png" width="40%">
